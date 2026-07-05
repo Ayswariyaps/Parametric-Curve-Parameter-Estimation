@@ -55,6 +55,15 @@ After obtaining the best result, the search was repeated around those values usi
 ### Step 5 – Final Comparison
 Using the final estimated parameters, the curve was generated again and compared with the original data.
 
+## Files Included
+
+parameter_estimation.ipynb  - Complete implementation
+xy_data.csv                 - Input dataset
+parameter_history.csv       - Best parameter updates during search
+final_curve.png             - Final comparison between actual and predicted curve
+error_plot.png              - Error reduction during search
+curve_search.gif            - Visualization of curve improvement
+
 ## Challenges Faced
 
 - Understanding the effect of each parameter on the curve.
