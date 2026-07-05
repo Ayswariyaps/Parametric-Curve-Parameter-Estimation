@@ -58,10 +58,15 @@ Using the final estimated parameters, the curve was generated again and compared
 ## Files Included
 
 parameter_estimation.ipynb  - Complete implementation
+
 xy_data.csv                 - Input dataset
+
 parameter_history.csv       - Best parameter updates during search
+
 final_curve.png             - Final comparison between actual and predicted curve
+
 error_plot.png              - Error reduction during search
+
 curve_search.gif            - Visualization of curve improvement
 
 ## Challenges Faced
